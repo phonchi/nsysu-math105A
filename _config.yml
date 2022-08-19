@@ -1,9 +1,9 @@
 # Site settings
-course_name: Calculus (I)
-course_description: "This course will study the basic knowledge and techniques of calculus for real-valued functions of one single variable."
-course_semester: "Fall 2021"
+course_name: Introduction To Computer Science
+course_description: "Computers play an essential part in our daily life and we will learn the basic ideas behind your laptop and smartphone. Specifically, we will give an overview of the computer science landscape, including the hardware, software, and applications. We will also cover basic programming language (Python) in the second half of the semester."
+course_semester: "Fall 2022"
 
-baseurl: "/nsysu-EE1003A/" # the subpath of your site, e.g. /blog/
+baseurl: "/nsysu-math105A/" # the subpath of your site, e.g. /blog/
 url: "https://phonchi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "National Sun Yat-Sen University"
