@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2022-10-28
+date: 2022-11-04
 description: 'Midterm'
 hide_from_announcments: true
 ---
