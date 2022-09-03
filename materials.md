@@ -23,6 +23,7 @@ permalink: /materials/
 ### Simulators
 * [CS Principles Widgets](https://code.org/educate/csp/widgets)
 * [logic.ly](https://logic.ly/)
+* [pythontutor](https://pythontutor.com/)
 * [CodeSkulptor3](https://py3.codeskulptor.org/about.html)
 
 ### Programming Environment
