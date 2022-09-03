@@ -24,7 +24,7 @@ permalink: /materials/
 * [CS Principles Widgets](https://code.org/educate/csp/widgets)
 * [logic.ly](https://logic.ly/)
 * [CodeSkulptor3](https://py3.codeskulptor.org/about.html)
-* 
+
 ### Programming Environment
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
