@@ -37,6 +37,6 @@ permalink: /materials/
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
-* [Python Taiwan user group](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
+* [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Python scientific computing](https://scipy-lectures.org/)
 
