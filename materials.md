@@ -14,6 +14,7 @@ permalink: /materials/
 
 ## MOOC
 * [NTU introduction to computer science](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S210)
+* [learncomputerscienceonline](https://www.learncomputerscienceonline.com/)
 * [Nand2Tetris](https://www.nand2tetris.org/)
 * [cs50](https://cs50.harvard.edu/x/2022/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
