@@ -14,4 +14,5 @@ links:
 **Suggested Readings:**
 - Chapter 1 and 2
 - [Number conversion](https://www.rapidtables.com/convert/number/index.html)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86yXSxw1DQEmPkDXcyxCyjB)
 
