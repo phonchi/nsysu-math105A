@@ -8,8 +8,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/03_Data_Storage.pdf
       name: CH3 Slides
-    - url: /static_files/presentations/01_Python.ipynb
-      name: Basic Python   
 ---
 **Suggested Readings:**
 - Chapter 3
