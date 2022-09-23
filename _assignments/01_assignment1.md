@@ -5,11 +5,11 @@ title: 'Assignment #1'
 attachment: /static_files/assignments/ICS_Assingment_1.pdf
 due_event: 
     type: due
-    date: 2022-09-30T11:59:00+3:30
+    date: 2022-09-30T12:00:00+3:30
     description: 'Assignment #1 due'
 ---
 This is assignment1.
 
-Please hand in the homework via the assignment center in the cyber university before 9/30 (Fri.) 23:59.
+Please hand in the homework via the assignment center in the cyber university before 9/30 (Fri.) 12:00.
 
 Please hand in your assignment with "pdf" file.
