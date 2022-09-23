@@ -14,3 +14,6 @@ links:
 - py4e lesson 1~3
 - [Number conversion](https://www.rapidtables.com/convert/number/index.html)
 - [PIX SPY](https://pixspy.com/)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-877hbIzv0FgBIpFwYIr_SEp)
+
+
