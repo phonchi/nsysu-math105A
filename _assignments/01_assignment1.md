@@ -9,5 +9,7 @@ due_event:
     description: 'Assignment #1 due'
 ---
 This is assignment1.
+
 Please hand in the homework via the assignment center in the cyber university before 9/30 (Fri.) 23:59.
+
 Please hand in your assignment with "pdf" file.
