@@ -12,4 +12,4 @@ This is assignment1.
 
 Please hand in the homework via the assignment center in the cyber university before 9/30 (Fri.) 12:00.
 
-Please hand in your assignment with "pdf" file.
+Please hand in your assignment with "pdf" file. (You can use [adobe scan](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=zh_TW&gl=US) to convert your assignment into pdf)
