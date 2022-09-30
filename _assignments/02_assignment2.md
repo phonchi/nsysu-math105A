@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-09-30T12:00:00+3:30
 title: 'Assignment #2'
-attachment: /static_files/assignments/ICS_Assingment_2.pdf
+attachment: /static_files/assignments/ICS_Assignment_2.pdf
 due_event: 
     type: due
     date: 2022-10-07T12:00:00+3:30
