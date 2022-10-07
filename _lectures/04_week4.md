@@ -13,3 +13,4 @@ links:
 - Chapter 4 and 5
 - [https://logic.ly/](https://logic.ly/)
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-86Tw6gU7srs9WunETDHWOPu)
