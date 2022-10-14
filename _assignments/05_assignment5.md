@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2022-10-14T14:00:00+3:30
-title: 'Assignment #3'
+title: 'Assignment #'
 attachment: /static_files/assignments/ICS_Assingment_4.pdf
 due_event: 
     type: due
