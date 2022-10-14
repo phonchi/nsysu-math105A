@@ -12,3 +12,4 @@ links:
 - Chapter 5
 - py4e lesson 4~6
 - [Basic Programming](https://github.com/phonchi/nsysu-math105A/blob/master/static_files/presentations/02_Data_manipulation.ipynb)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-871B3gqOOwfMLKxqa4cOCHb)
