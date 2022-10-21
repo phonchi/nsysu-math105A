@@ -13,4 +13,5 @@ links:
 **Suggested Readings:**
 - Chapter 6
 - [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87MQbeDMrrGEYnM3h7E_63d)
 
