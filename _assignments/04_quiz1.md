@@ -3,7 +3,7 @@ type: assignment
 date: 2022-10-14T9:00:00+3:30
 title: 'Take home quiz #1'
 attachment: /static_files/assignments/Quiz1.pdf
-<!---solutions: /static_files/assignments/asg_solutions.pdf--->
+solutions: /static_files/assignments/Quiz1_sol.pdf
 due_event: 
     type: due
     date: 2022-10-28T09:00:00+3:30
