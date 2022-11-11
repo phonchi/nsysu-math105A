@@ -10,6 +10,8 @@ links:
       name: CH7 Slides 
     - url: /static_files/presentations/Bash.pdf
       name: Bash Slides 
+    - url: /static_files/presentations/Midterm_sol.pdf
+      name: Reference solution of midterm 
 ---
 **Suggested Readings:**
 - Chapter 7
