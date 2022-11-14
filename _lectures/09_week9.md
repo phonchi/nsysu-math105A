@@ -16,3 +16,4 @@ links:
 **Suggested Readings:**
 - Chapter 7
 - [Video for Bash](https://www.youtube.com/playlist?list=PLHNZtBNWQ-85w9-qNWualJZrtojRNXqkE)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85Fd2_iSAbZVXVaYYlI5Gfi)
