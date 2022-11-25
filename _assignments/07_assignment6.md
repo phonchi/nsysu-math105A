@@ -3,6 +3,7 @@ type: assignment
 date: 2022-11-14T09:00:00+3:30
 title: 'Assignment #6'
 attachment: /static_files/assignments/ICS_Assingment_6.pdf
+solutions: /static_files/assignments/ICS_Assingment_Solution_6.pdf
 due_event: 
     type: due
     date: 2022-11-18T12:00:00+3:30
