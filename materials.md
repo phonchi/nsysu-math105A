@@ -25,17 +25,17 @@ permalink: /materials/
 * [Open Source Society University](https://github.com/ossu/computer-science#intro-cs)
 
 ### Simulators
-* [CS Principles Widgets](https://code.org/educate/csp/widgets)
 * [logic.ly](https://logic.ly/)
 * [Simple computer simulator](https://www.101computing.net/lmc-simulator/)
 * [pythontutor](https://pythontutor.com/)
-* [CodeSkulptor3](https://py3.codeskulptor.org/about.html)
 
 ### Programming Environment
+* [VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
 ### Learning Python
+* [Cheat sheet](https://github.com/ehmatthes/pcc_2e/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Python for everybody](https://www.py4e.com/)
 * [Introduction to computer science and programming in python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
@@ -43,4 +43,7 @@ permalink: /materials/
 
 ### Learning English
 * [VoiceTube](https://tw.voicetube.com/)
+
+### Others
+* [Digital tools](https://hackmd.io/@phonchi/digital-tools)
 
