@@ -3,6 +3,7 @@ type: assignment
 date: 2022-12-02T12:00:00+3:30
 title: 'Assignment #9'
 attachment: /static_files/assignments/Assignment 9.ipynb
+solutions: /static_files/assignments/Assignment 9_sol.ipynb
 due_event: 
     type: due
     date: 2022-12-16T12:00:00+3:30
